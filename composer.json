@@ -1,0 +1,16 @@
+{
+    "name": "escola/stock",
+    "description": "Sistema de escola em PHP",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gusttavo Brandão",
+            "email": "102116359+Gusttavo210@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "phpmailer/phpmailer": "dev-master"
+    }
+}
